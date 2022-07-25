@@ -18,4 +18,5 @@
 * clonar o diretorio: ReactNativeRocketHelp
 * npm install (Para instalar as dependências)
 * expo run:android
+* Obs.: O AndroidStudio deve estar instalado com emulador
 
